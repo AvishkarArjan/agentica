@@ -1,0 +1,5 @@
+langchain
+requests
+python-dotenv
+gradio
+tavily-python
