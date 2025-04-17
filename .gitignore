@@ -1,5 +1,4 @@
-
+.env
 agent/agent_core.py
 helper
-main.py
 config/__pycache__
